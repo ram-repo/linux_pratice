@@ -1,3 +1,2 @@
-Hi 
 
-testing second commit
+# shell for git commands
