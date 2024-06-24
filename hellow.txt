@@ -3,3 +3,5 @@
 echo "hellow world"
 
 echo "second commit"
+
+echo "merge"
